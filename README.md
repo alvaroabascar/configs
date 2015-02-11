@@ -1,2 +1,2 @@
 # configs
-some configs files (for my use)
+Some configs, for my own use. Don't expect anything useful here.
